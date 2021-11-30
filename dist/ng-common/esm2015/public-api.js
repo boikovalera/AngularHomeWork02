@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of ng-common
+ */
+export * from './lib/ng-common.service';
+export * from './lib/ng-common.component';
+export * from './lib/ng-common.module';
+export * from './lib/footer/footer.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLWNvbW1vbi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMseUJBQXlCLENBQUM7QUFDeEMsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLHdCQUF3QixDQUFDO0FBQ3ZDLGNBQWMsK0JBQStCLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5nLWNvbW1vblxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLWNvbW1vbi5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25nLWNvbW1vbi5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmctY29tbW9uLm1vZHVsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9mb290ZXIvZm9vdGVyLmNvbXBvbmVudCdcbiJdfQ==
